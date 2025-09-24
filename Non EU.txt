@@ -6,3 +6,4 @@ vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=realit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#United%20States
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#United%20States
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#Russia%20
